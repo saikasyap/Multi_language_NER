@@ -1,0 +1,1 @@
+[{'text': 'Kasyap', 'type': 'GPE', 'start_pos': 11, 'end_pos': 17}]
